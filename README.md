@@ -6,6 +6,8 @@ Generative AI represents a breakthrough in how we interact with technology and e
 
 ---
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d24b1d20-eba7-4c2a-9bbc-ead0f2e36c97" />
+
 # 💬 Gen AI Chatbot Project
 
 **An Intelligent Conversational Agent Powered by Advanced AI Technologies**
