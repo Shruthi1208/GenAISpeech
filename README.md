@@ -39,7 +39,10 @@ A framework for integrating language models with external data sources and APIs 
 
 A text-to-speech platform that gives the chatbot a realistic voice, transforming text replies into spoken responses for a more interactive experience.
 
-### 🧩 **6. Gradio**
+### 🗣️ **6. Speech Recognition / STT**
+A speech-to-text technology that converts the user's spoken voice into text, allowing the chatbot to understand and process voice-based input.
+
+### 🧩 **7. Gradio**
 
 A user-friendly web interface for showcasing and testing machine learning models in real time, making user interactions simple and intuitive.
 
